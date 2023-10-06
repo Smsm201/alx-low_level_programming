@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include<stdio.h>
 /**
  * main - entry point
  * Description: print all alphabet letters except o and e
@@ -10,7 +10,7 @@ int main(void)
 
 	while (ch <= 'z')
 	{
-		if (ch == 'e' | ch == 'q')
+		if (ch == 'e' || ch == 'q')
 			ch++;
 		putchar(ch);
 		ch++;
