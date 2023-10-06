@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - A program that prints a line with puts functio
- n
- * Return: 0 (success)
+ * main - Entry point of the program.
+ * main - A program that prints a line with puts function
+ * Return: 0 for successful execution.
  */
 int main(void)
 {
