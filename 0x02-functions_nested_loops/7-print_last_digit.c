@@ -4,6 +4,7 @@
  * print_last_digit - print last digit of a number
  * @n: takes number input
  * return: lastdigit
+ * Return: 0 for successful execution.
  */
 
 int print_last_digit(int n)
