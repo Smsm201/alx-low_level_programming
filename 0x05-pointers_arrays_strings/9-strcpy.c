@@ -4,7 +4,7 @@
  * '_strcpy - copies the string pointed to by str
  * @dest: chat type string
  * @src: char type string
- * description: copy the string pointed to by pointer 'src' to 
+ * description: copy the string pointed to by pointer 'src' to
  * the buffer to by 'dest'
  * Return: 0 for successful execution.
  */
