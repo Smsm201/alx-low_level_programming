@@ -7,7 +7,7 @@
  * Return: 0 for successful execution.
  */
 
-void print_array(int *a, int n)
+void print(int *a, int n)
 {
 	int i;
 
