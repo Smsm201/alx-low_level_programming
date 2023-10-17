@@ -4,7 +4,7 @@
 
 /**
  * main - generates random passwords for 101-crackme
- * Return: 0 for successful execution.
+ * Return: zero
  */
 
 int main(void)
